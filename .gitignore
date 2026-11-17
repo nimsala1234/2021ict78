@@ -1,0 +1,6 @@
+.Rproj.user/
+.Rhistory
+.RData
+.DS_Store
+data/Swissprot_Train_Validation_dataset.csv
+results/model_*.rds

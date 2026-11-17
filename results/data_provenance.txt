@@ -1,0 +1,4 @@
+Source: https://services.healthtech.dtu.dk/services/DeepLoc-2.0/data/Swissprot_Train_Validation_dataset.csv
+MD5: 96ef595bab0a71e7a21049f21b2ce2e8
+Raw rows: 28303
+Columns: , ACC, Kingdom, Partition, Membrane, Cytoplasm, Nucleus, Extracellular, Cell membrane, Mitochondrion, Plastid, Endoplasmic reticulum, Lysosome/Vacuole, Golgi apparatus, Peroxisome, Sequence
